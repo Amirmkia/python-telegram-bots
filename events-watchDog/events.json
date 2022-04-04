@@ -1,0 +1,212 @@
+[
+    {
+        "id": 104569,
+        "title": "85% APR Pool Closes",
+        "coins": [
+            "Triall"
+        ],
+        "date_event": "2022-02-05",
+        "time_event": "00:00:00",
+        "categories": [
+            "Staking/Farming"
+        ],
+        "source": "https://coinmarketcal.com/event/85-apr-staking-pool-104569"
+    },
+    {
+        "id": 104658,
+        "title": "Discord AMA",
+        "coins": [
+            "Strong"
+        ],
+        "date_event": "2022-02-05",
+        "time_event": "00:00:00",
+        "categories": [
+            "AMA"
+        ],
+        "source": "https://coinmarketcal.com/event/discord-ama-104658"
+    },
+    {
+        "id": 105034,
+        "title": "YouTube Live AMA",
+        "coins": [
+            "Flux"
+        ],
+        "date_event": "2022-02-05",
+        "time_event": "00:00:00",
+        "categories": [
+            "AMA",
+            "Team Update"
+        ],
+        "source": "https://coinmarketcal.com/event/youtube-live-ama-105034"
+    },
+    {
+        "id": 105036,
+        "title": "MEXC Global Listing",
+        "coins": [
+            "NFT Art Finance"
+        ],
+        "date_event": "2022-02-05",
+        "time_event": "00:00:00",
+        "categories": [
+            "Exchange"
+        ],
+        "source": "https://coinmarketcal.com/event/mexc-global-listing-105036"
+    },
+    {
+        "id": 105006,
+        "title": "BKEX Listing",
+        "coins": [
+            "Baddest Alpha Ape Bundle"
+        ],
+        "date_event": "2022-02-05",
+        "time_event": "00:00:00",
+        "categories": [
+            "Exchange"
+        ],
+        "source": "https://coinmarketcal.com/event/bkex-listing-105006"
+    },
+    {
+        "id": 87312,
+        "title": "Bitcoin Bridge",
+        "coins": [
+            "Harmony"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Release"
+        ],
+        "source": "https://coinmarketcal.com/event/bitcoin-bridge-87312"
+    },
+    {
+        "id": 104806,
+        "title": "Adadao Private Sale",
+        "coins": [
+            "Cardence"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Other"
+        ],
+        "source": "https://coinmarketcal.com/event/adadao-private-sale-104806"
+    },
+    {
+        "id": 104674,
+        "title": "Fort Canning Hill Upgrade",
+        "coins": [
+            "DeFiChain"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Release"
+        ],
+        "source": "https://coinmarketcal.com/event/fort-canning-hill-upgrade-104674"
+    },
+    {
+        "id": 104874,
+        "title": "Spywolf AMA with KODI",
+        "coins": [
+            "KODI",
+            "Spywolf"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "AMA"
+        ],
+        "source": "https://coinmarketcal.com/event/spywolf-ama-with-kodi-104874"
+    },
+    {
+        "id": 104851,
+        "title": "Residents & Chapter Call",
+        "coins": [
+            "Stacks"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Team Update"
+        ],
+        "source": "https://coinmarketcal.com/event/residents-chapter-call-104851"
+    },
+    {
+        "id": 105050,
+        "title": "WhiteBIT Listing",
+        "coins": [
+            "Near"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Exchange"
+        ],
+        "source": "https://coinmarketcal.com/event/whitebit-listing-105050"
+    },
+    {
+        "id": 104688,
+        "title": "Partnership Announcement",
+        "coins": [
+            "Ownly"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Partnership"
+        ],
+        "source": "https://coinmarketcal.com/event/partnership-announcement-104688"
+    },
+    {
+        "id": 104918,
+        "title": "Testnet Launch",
+        "coins": [
+            "Vulcan Forged"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Release"
+        ],
+        "source": "https://coinmarketcal.com/event/testnet-launch-104918"
+    },
+    {
+        "id": 104946,
+        "title": "Jacky Tsai x Martell NFT",
+        "coins": [
+            "SuperRare"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Release"
+        ],
+        "source": "https://coinmarketcal.com/event/jacky-tsai-x-martell-nft-104946"
+    },
+    {
+        "id": 104994,
+        "title": "ProBit Global Listing",
+        "coins": [
+            "GreenZoneX"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Exchange"
+        ],
+        "source": "https://coinmarketcal.com/event/probit-global-listing-104994"
+    },
+    {
+        "id": 105015,
+        "title": "ProBit Global Listing",
+        "coins": [
+            "Ekta"
+        ],
+        "date_event": "2022-02-07",
+        "time_event": "00:00:00",
+        "categories": [
+            "Exchange"
+        ],
+        "source": "https://coinmarketcal.com/event/probit-global-listing-105015"
+    }
+]

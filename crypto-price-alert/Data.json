@@ -1,0 +1,38 @@
+[
+      {
+            "sender": 382215836,
+            "username": "Amirm_1376",
+            "messageId": 1070,
+            "name": "BTC/USDT",
+            "enter_price": [
+                  "41100",
+                  "42200"
+            ],
+            "targets": [
+                  "42050",
+                  "42060",
+                  "42010",
+                  "42020",
+                  "44000"
+            ],
+            "stop": "41000",
+            "timing": "N",
+            "spot": "Binance Futures (LONG)",
+            "current_price": 42137.1,
+            "target_len": 5,
+            "date": "2022-03-09 14:40:17.469192",
+            "lev_futures": "2",
+            "capital": "3",
+            "confirmed": 0,
+            "ts": 0,
+            "time": "2022-03-09",
+            "profit": 1.78,
+            "loss": 0,
+            "enter_price_launched": 1,
+            "target1": 1,
+            "target2": 1,
+            "target3": 1,
+            "target4": 1,
+            "target5": 0
+      }
+]

@@ -32,7 +32,7 @@ import base64
 import datetime
 qrcode = ""
 newpermission , assetpay , cancelbut , packages , afterasset , aftertraderzhal , checktxidtraderhallthree , checktxidtraderhalltwo , checktxidtraderhallone , checkvipone , checkviptwo , checkvipthree , backToHome , aftervip  , AssetVip1 , AssetVip2,AssetVip3, CheckQrCodeVip1 , CheckQrCodeVip2 ,CheckQrCodeVip3 , CheckAssetVip1 ,  CheckAssetVip2,  CheckAssetVip3 , AssetTh1 , CheckQrCodeTh1 , CheckAssetTh1 , AssetTh2 ,CheckQrCodeTh2 , CheckAssetTh2 , AssetTh3 ,CheckQrCodeTh3 , CheckAssetTh3 = range(32)
-bot = telegram.Bot(token="5121111058:AAHSZu6fmDKFyLWGhaCCVqd_Jl1RhVAk1NI")
+bot = telegram.Bot(token="")
 def start(update: Update, context: CallbackContext) -> int:
     '''
     when user send /start this section started
@@ -3112,7 +3112,7 @@ def startagain(update: Update, context: CallbackContext) -> int:
 
 def main() :
     '''main section , mother of functions :D  , bot keep run and state was run in this section'''
-    updater = Updater("1792099185:AAHfOO8OtkIbbue050qm9kBl70yQzS_NgNc")
+    updater = Updater("")
     dispatcher = updater.dispatcher
     
     conv_handler = ConversationHandler(

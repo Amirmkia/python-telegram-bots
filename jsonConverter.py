@@ -31,7 +31,7 @@ def cancel(update: Update, context: CallbackContext):
     
 def main() :
     '''main section , mother of functions :D  , bot keep run and state was run in this section'''
-    updater = Updater("5102326875:AAE8rynkU9ew5q5cuwu9X9W0RLS5qjEAi2w")
+    updater = Updater("")
     dispatcher = updater.dispatcher
     conv_handler = ConversationHandler(
         entry_points=[

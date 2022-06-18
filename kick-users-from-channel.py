@@ -13,8 +13,8 @@ def main():
     app = Client(
         "my_bot",
         api_id = "6507128",
-        api_hash = "3e7dea0acaef86a05fa54511a0f4f9c6",
-        bot_token="5193691520:AAHqS6a__zGUtN9uMPoxLAoz-HLAlR0JgAY"
+        api_hash = "",
+        bot_token=""
     )
     app.start()
     members = app.get_chat_members(channel)
@@ -57,53 +57,3 @@ def main():
 scheduler = BlockingScheduler()
 scheduler.add_job(main, 'interval', hours=0.02)
 scheduler.start()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                # out_file = open("./mylidfile.json", "w")  
-                # json.dump(websitelidData.json(), out_file, indent = 6) 
-                # with open("./mylidfile.json", "r") as readinglidusers:
-                #     b = []
-
-                    # data = json.load(readinglidusers)
-                    # print(data)
-                    # lidlist = []
-                    # lidfile = lidlist.append(json.load(readinglidusers))
-                    # print(lidfile["response"])
-                    # for liduser in lidfile:
-                    #     print(liduser["response"])
-        # else:
-        #     pass
-
-
-
-
-    # Client.chat
-
-# scheduler = BlockingScheduler()
-# scheduler.add_job(main, 'interval', hours=0.02)
-# scheduler.start()

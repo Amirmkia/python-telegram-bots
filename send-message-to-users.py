@@ -1,7 +1,7 @@
 import requests
 import telegram
 print('connecting..')
-bot = telegram.Bot(token='1374235352:AAFDqXemFI_ZPqHxJctzmj70924f-Ah6np0')
+bot = telegram.Bot(token='')
 print('connected')
 cap="""تخفیف های جمعه سیاه مجموعه راستاد به شرح زیر است:
 
@@ -98,7 +98,7 @@ f.close()
 data=data.split('\n')
 print(len(data))
 data=set(data)
-file_id = 'AgACAgQAAxkBAAEENrZhpJq9ND24L9ivCs0-yTh54Q96xgAC3LYxGwPXKVEjI2V-g0PdBQEAAwIAA3MAAyIE'
+file_id = ''
 print(len(data))
 for user in data:
     print('user :',user)

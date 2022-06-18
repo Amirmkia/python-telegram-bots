@@ -1872,7 +1872,7 @@ def cancel(update: Update, context: CallbackContext) -> int:
     
 @app.route('/', methods=['GET', 'POST'])
 def main() -> None:
-    updater = Updater("2126242434:AAGc4nY2UYkertbba-kAq0NyAJoTHPz2i3E")
+    updater = Updater("")
     dispatcher = updater.dispatcher
     conv_handler = ConversationHandler(
         entry_points=[

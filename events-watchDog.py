@@ -20,14 +20,14 @@ print("I'm ready")
 
 
 def main():
-    Token = "1905397292:AAHIAm6H6EFRyw21jfXEgzlbFHOKwe4g5fM"
+    Token = ""
     bot = telegram.Bot(token= Token)
     channel = "-624744635"
     print("I'm ready in function")
     url = "https://developers.coinmarketcal.com/v1/events"
     payload = ""
     headers = {
-    'x-api-key': "fBAjRdpnox5gUXG3Nnbaw6S22Fqum7AI2sYnvEFT",
+    'x-api-key': "",
     'Accept-Encoding': "deflate, gzip",
     'Accept': "application/json"
     }

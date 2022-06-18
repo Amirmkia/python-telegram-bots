@@ -24,12 +24,12 @@ from telethon.tl.types import InputUserSelf
 from telethon.tl.types import InputUser
 from telegram import *
 from telegram.ext import *
-api_id = "6507128"
-api_hash = "3e7dea0acaef86a05fa54511a0f4f9c6"
+api_id = ""
+api_hash = ""
 CHANNEL = -1001796487584
 # CHANNEL = -764117518
 
-bot_token = "5081074973:AAEkLaJ2-WJqkmZi5DxmhluuGIZ7KPfq8S4"
+bot_token = ""
 i = 1
 messagenumber = {
     "number" : "",

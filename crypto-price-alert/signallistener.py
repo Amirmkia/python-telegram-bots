@@ -40,12 +40,12 @@ import datetime
 import time
 from datetime import date
 from datetime import timedelta
-api_id = "6507128"
-api_hash = "3e7dea0acaef86a05fa54511a0f4f9c6"
+api_id = ""
+api_hash = ""
 phone = ''
 
 CHANNEL = -738934496
-token = "5177794563:AAE-I8ZhJ1nfriaoBCyws0A89oq7oKL0wbA"
+token = ""
 api_key = ""
 api_secret = ""
 message = "hi."

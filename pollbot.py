@@ -1,4 +1,4 @@
-API_KEY="2126242434:AAGc4nY2UYkertbba-kAq0NyAJoTHPz2i3E"
+API_KEY=""
 API_URL = f"https://api.telegram.org/bot{API_KEY}"+'/{metho}'
 import pandas as pd
 import json

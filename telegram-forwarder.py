@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events
 
 CHANNEL = "https://t.me/coin_listing"
-api_id = "6507128"
-api_hash = "3e7dea0acaef86a05fa54511a0f4f9c6"
+api_id = ""
+api_hash = ""
 
 client = TelegramClient('amirforwarder', api_id, api_hash)
 
